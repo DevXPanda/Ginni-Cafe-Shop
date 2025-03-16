@@ -1,7 +1,11 @@
-<<<<<<< HEAD
-# Cafe-Shop
+HEAD
+# Cafe-Shop- check it ginnicafe.netlify.app
 =======
 # React + TypeScript + Vite
+I used Vite.js with react with typescript for frontend,
+for backend i use Node.js with express.js,
+Databse you can use any you want i personally love with Supabase it is good because it is a open-source Backend as a Service platform that Simplifies Backend Development by providing a PostgreSQL databse, real-time data synchronization, user authentication, and file storage through a simple API, acting as an aleternative to Firebase.
+For OTP verification i use Twillo msg site.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -55,4 +59,5 @@ export default tseslint.config({
   },
 })
 ```
->>>>>>> 25edd52 (Initial commit)
+
+
