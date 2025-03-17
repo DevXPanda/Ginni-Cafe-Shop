@@ -1,5 +1,4 @@
 HEAD
-# Cafe-Shop- check it ginnicafe.netlify.app
 =======
 # React + TypeScript + Vite
 I used Vite.js with react with typescript for frontend,
